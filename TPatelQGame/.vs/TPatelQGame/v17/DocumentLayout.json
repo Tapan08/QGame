@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|c:\\users\\tapan patel\\onedrive - conestoga college\\3rd sem\\game development\\assignments\\assignment-3\\tpatelqgame\\playform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|solutionrelative:playform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\playform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|solutionrelative:playform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\designform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|solutionrelative:designform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\designform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|solutionrelative:designform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\toolpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC3FCB-C309-4FB4-8920-827DB067187C}|TPatelQGame.csproj|solutionrelative:toolpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\PlayForm.cs",
+              "RelativeDocumentMoniker": "PlayForm.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\PlayForm.cs",
+              "RelativeToolTip": "PlayForm.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwM4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:13:04.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\PlayForm.cs",
+              "RelativeDocumentMoniker": "PlayForm.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive\\Desktop\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\PlayForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\PlayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-03T17:13:04.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\DesignForm.cs",
+              "RelativeDocumentMoniker": "DesignForm.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\DesignForm.cs",
+              "RelativeToolTip": "DesignForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-03T17:13:04.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-03T17:13:04.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesignForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\DesignForm.cs",
+              "RelativeDocumentMoniker": "DesignForm.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive\\Desktop\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\DesignForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\DesignForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-03T17:13:04.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive\\Desktop\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-03T17:13:04.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToolPictureBox.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\ToolPictureBox.cs",
+              "RelativeDocumentMoniker": "ToolPictureBox.cs",
+              "ToolTip": "C:\\Users\\Tapan Patel\\OneDrive - Conestoga College\\3rd Sem\\Game Development\\Assignments\\Assignment-3\\TPatelQGame\\ToolPictureBox.cs",
+              "RelativeToolTip": "ToolPictureBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2024-08-03T17:13:04.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
