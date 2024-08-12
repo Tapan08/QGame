@@ -15,10 +15,6 @@ QGame is suitable for all ages, offering a great way to challenge friends, learn
 - [License](#license)
 
 
-## Introduction
-
-Here's an introduction for your Windows Forms application:
-
 ---
 
 
