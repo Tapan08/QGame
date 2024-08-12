@@ -1,13 +1,5 @@
 # QGame
 
-### Introduction to QGame
-
-**QGame** is an engaging and interactive quiz-based gaming application that challenges players' knowledge across various topics. Designed with a sleek and user-friendly interface, QGame offers an immersive experience that combines entertainment with learning. 
-
-Players can test their knowledge in different categories, ranging from general knowledge and history to science, entertainment, and beyond. With each correct answer, players earn points, advancing through levels of increasing difficulty. The game encourages players to think quickly and accurately, making it a perfect blend of fun and mental exercise.
-
-QGame is suitable for all ages, offering a great way to challenge friends, learn new things, and compete for high scores. Whether you’re playing solo or in a group, QGame is sure to provide hours of educational entertainment.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
